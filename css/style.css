@@ -1039,7 +1039,7 @@ html{
 @media screen and (max-width: 998px)
 {
     html{
-        font-size: 55%;
+        font-size: 60%;
     }
 
     /* Navigation start  */
@@ -1209,7 +1209,7 @@ html{
 @media screen and (max-width: 600px)
 {
     html{
-       font-size: 45%;
+       font-size: 50%;
     }
     .footer{
         grid-template-columns: 1fr;
