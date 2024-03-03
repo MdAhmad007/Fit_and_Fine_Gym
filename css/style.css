@@ -1209,7 +1209,7 @@ html{
 @media screen and (max-width: 600px)
 {
     html{
-       font-size: 35%;
+       font-size: 45%;
     }
     .footer{
         grid-template-columns: 1fr;
